@@ -1,4 +1,4 @@
-# flutter-dice
+# Dice
 A Flutter app that rolls 2 dice.
 
 ## Download Instructions
