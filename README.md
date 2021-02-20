@@ -13,5 +13,6 @@ A Flutter app that rolls 2 dice.
 9. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshots
-![screenshot1](https://user-images.githubusercontent.com/47066511/65376896-af2fb580-dc73-11e9-8056-7d052c43a3be.png)
-![screenshot2](https://user-images.githubusercontent.com/47066511/65376893-ad65f200-dc73-11e9-8bb7-8ba9c5927f83.png)
+
+<img src="https://user-images.githubusercontent.com/47066511/65376896-af2fb580-dc73-11e9-8056-7d052c43a3be.png" width="300" alt="1">
+<img src="https://user-images.githubusercontent.com/47066511/65376893-ad65f200-dc73-11e9-8bb7-8ba9c5927f83.png" width="300" alt="2">
